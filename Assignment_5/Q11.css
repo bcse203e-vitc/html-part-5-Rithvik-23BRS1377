@@ -1,0 +1,23 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  div {
+    width: 200px;
+    height: 200px;
+    background-color: beige;
+    padding: 1%;
+    margin: 2%;
+    border: solid 2px #000;
+  }
+  
+  div:hover {
+    border: solid 15px red;
+  }
+  
